@@ -9,7 +9,8 @@
 - Reach me: any socials are fine / or email here thompsonnft@gmail.com
 - Fun fact : I'm right-handed. For inspiration I will sometimes use my left hand to create something new to work on
  
-<nft-card contractAddress="0x5a121e316356197ae0724983efd24743c804ad99" tokenId="11"> </nft-card> <script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
+<img width="1587" alt="Screenshot 2022-11-12 at 1 05 49 PM" src="https://user-images.githubusercontent.com/97910778/201488419-240941eb-2479-4a41-a1de-079b5704c9bc.png">
+
 
 
 
