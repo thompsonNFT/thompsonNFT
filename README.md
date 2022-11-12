@@ -8,7 +8,8 @@
 - Ask me about traditional art combined w/NFTs on the ETH blockchain. Always open 
 - Reach me: any socials are fine / or email here thompsonnft@gmail.com
 - Fun fact : I'm right-handed. For inspiration I will sometimes use my left hand to create something new to work on
-- 
+ 
+<nft-card contractAddress="0x5a121e316356197ae0724983efd24743c804ad99" tokenId="11"> </nft-card> <script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
 
 
 
@@ -23,4 +24,4 @@
 - 💬 Ask me about traditional art combined w/NFTs on the ETH blockchain. Always open 
 - 📫 How to reach me: any socials are fine / or email here 
 - ⚡ Fun fact : I'm right-handed. For inspiration I will sometimes use my left hand to create something new to work on
--->
+--> 
