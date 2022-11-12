@@ -3,7 +3,7 @@
 - Working on a collection called: //Nocturnal Abstracts
 - Hoping to be learning w Alchemy
 - Ask me about traditional art combined w/NFTs on the ETH blockchain. Always open 
-- Reach me: any socials are fine / or email here 
+- Reach me: any socials are fine / or email here thompsonnft@gmail.com
 - Fun fact : I'm right-handed. For inspiration I will sometimes use my left hand to create something new to work on
 
 
