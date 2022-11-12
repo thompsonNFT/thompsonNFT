@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- Working on a collection called: //Nocturnal Abstracts
+- Currently learning at Alchemy 
+
+
+
+
+
 <!--
 **thompsonNFT/thompsonNFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
