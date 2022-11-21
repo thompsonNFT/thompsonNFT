@@ -1,4 +1,6 @@
 ### @thompsonnft | thompsonART.eth 👋
+(have to add that I'm here piecing things together - "make-shifting it"... what's "it" ... I'm not sure just yet, but
+we shall see. Hopefully, at some point...I will get it. 
 
 - Twitter: https://twitter.com/thompsonNFT
 - Linktree: https://linktr.ee/thompsonnft | was hacked & lost thompsonnft.eth ---> changed to thompsonart.eth 
