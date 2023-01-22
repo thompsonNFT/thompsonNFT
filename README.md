@@ -17,6 +17,9 @@ we shall see. Hopefully, at some point...I will get it.
 
 //SadBUNNI3S Collection on top of //NocturnalAbstracts (WIP) in preview shells 
 
+Tezos Signed Message: I am attesting that this GitHub handle thompsonnft is linked to the Tezos account tz1hXBSHkv2zoqy4bndqzTBGWkoR41ymZiD1 for tzprofiles
+
+
 
 
 
