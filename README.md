@@ -19,7 +19,8 @@ we shall see. Hopefully, at some point...I will get it.
 
 Tezos Signed Message: I am attesting that this GitHub handle thompsonnft is linked to the Tezos account tz1hXBSHkv2zoqy4bndqzTBGWkoR41ymZiD1 for tzprofiles
 
+I am attesting that this GitHub handle thompsonnft is linked to the Tezos account tz1hXBSHkv2zoqy4bndqzTBGWkoR41ymZiD1 for tzprofiles
 
-
+sig:edsigtYcCSC9BTDyehNZMeyVTgE7JALVMmvnm9uPz9jbcyZPRTTLBhBxwKgX7tRs8dbHB7q1iCosJ6mvPeiyoiUQJYAjvGzCfro
 
 
