@@ -3,10 +3,9 @@
 we shall see. Hopefully, at some point...I will get it. 
 
 - Twitter: https://twitter.com/thompsonNFT
-- Linktree: https://linktr.ee/thompsonnft | was hacked & lost thompsonnft.eth ---> changed to thompsonart.eth 
+- Linktree: https://linktr.ee/thompsonnft 
 - Artist FOUNDATION HERE: [(https://foundation.app/@thompsonART)]
 - Working on a collection called: //Nocturnal Abstracts : https://foundation.app/collection/Shells?sortOrder=DEFAULT
-- Hoping to be learning w Alchemy 
 - Ask me about traditional art combined w/NFTs on the ETH blockchain. Always open 
 - Reach me: any socials are fine / or email here thompsonnft@gmail.com
 - Fun fact : I'm right-handed. For inspiration I will sometimes use my left hand to create something new to work on
